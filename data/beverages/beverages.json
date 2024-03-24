@@ -1,0 +1,8 @@
+{
+  "menu":
+  {
+    "milkshake_1": {"name": "Молочный коктейль ванильный 🍨", "folder_name": "milkshake_standard"},
+    "mojito_1": {"name": "Мохито безалкогольный 🍸", "folder_name": "mojito"}
+  },
+  "image_id": "AgACAgIAAxkDAAN5ZfBaJZ2D1v3aBdTtndiI1W8CxtMAAovUMRv90YlLksLurFxz8DQBAAMCAAN5AAM0BA"
+}

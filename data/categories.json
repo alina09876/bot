@@ -1,0 +1,8 @@
+{
+  "categories":
+  {
+    "beverages": {"name": "Напитки 🥤", "folder_name": "beverages"},
+    "pasta": {"name": "Паста 🍝", "folder_name": "pasta"},
+    "dessert": {"name": "Десерты 🍰", "folder_name": "dessert"}
+  }
+}

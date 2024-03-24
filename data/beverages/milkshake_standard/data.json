@@ -1,0 +1,11 @@
+{ "callback_data": "milkshake_1",
+  "name": "Ванильный молочный коктейль",
+  "servings": "4",
+  "ingredients":
+  {"Мороженое": "250 г", "Рисовое молоко": "1 стакан"},
+  "recipe":
+  ["В миске смешать мороженое и молоко.",
+    "Миксером взбить до однородного состояния.",
+    "Перелить в бокалы и сразу подать."],
+  "image_id": "AgACAgIAAxkDAAN9ZfBb5eCBNjs0DjkQt3tCeFIJncMAAsTUMRv90YlLW7AL3kT916kBAAMCAAN4AAM0BA"
+}
